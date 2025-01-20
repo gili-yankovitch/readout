@@ -13,6 +13,7 @@ IMPORTANT NOTE: Although having a readout protection is crucial for secure boot,
 |--------|-----|------------|---------|
 | WCH | CH32V003 | WCH-LinkE | ✅ |
 | Atmel | ATMega328p | ISP | ✅ |
+| Atmel | ATMega32U4 | ISP | ✅ |
 
 
 <!-- LICENSE -->
