@@ -22,7 +22,7 @@ endif
 
 TARGET_MCU?=CH32V003
 TARGET_EXT?=c
-TARGET=rom
+TARGET=rom-$(MCU)
 
 CH32V003FUN?=ch32v003fun
 MINICHLINK?=minichlink
