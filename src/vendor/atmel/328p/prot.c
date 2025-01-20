@@ -76,9 +76,9 @@ int __attribute__((section(".bootloader"))) lockFlash()
     __asm__("nop");
     __asm__("nop");
 
+done:
     sei();
 
-done:
     return 0;
 }
 
