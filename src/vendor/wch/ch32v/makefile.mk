@@ -202,4 +202,8 @@ flash_mcu : $(TARGET).bin
 clean_mcu :
 	rm -rf $(TARGET).elf $(TARGET).bin $(TARGET).hex $(TARGET).lst $(TARGET).map $(TARGET).hex || true
 
+erase :
+	$(MINICHLINK) -p
+
+
 build : $(TARGET).bin
