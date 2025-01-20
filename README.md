@@ -8,10 +8,6 @@ This project's aim is to provide a ready-to-use source code along with a sample 
 
 IMPORTANT NOTE: Although having a readout protection is crucial for secure boot, secure storage and other security features, this project DOES NOT GUARANTEE other attack vector protections. Examples such as fault injection or power analysis are out of the scope of this project. For devices which are truly invulnerable to deeply intrusive attacks, it is strongly suggested to find MCUs that explicitly target these requirements.
 
-Sword of Secrets is a hardware hacking challenge. It is suitable for both novice and experienced tinkerers and hackers. It utilizes a low number of components to make the challenge easier to grasp, but hold in itself enough intricacies that will require the challenger a keen eye and sharp mind to solve all challenges.
-
-To solve the challenge you will need to discover a series of flags, hidden inside the sword. Each one will help you unlock the next step in the challenge, to finally reveal the ultimate secret the sword holds.
-
 ## Current Support
 | Vendor | MCU | Programmer | Support |
 |--------|-----|------------|---------|
