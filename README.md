@@ -19,9 +19,6 @@ IMPORTANT NOTE: Although having a readout protection is crucial for secure boot,
 ## License
 
 Distributed under the MIT License.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 ## Contact
 
